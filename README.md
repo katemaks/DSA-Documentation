@@ -15,7 +15,7 @@ By analysing the various parameters in the data received, we seek to gather enou
 The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
-- Ms Excel for Data cleaning (Download here)
+- Ms Excel for Data cleaning [Download Here](https://www.microsoft.com)
   - For Data Collection
   - For Data Cleaning
      1.   Data Manipulation
